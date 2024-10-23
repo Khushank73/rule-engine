@@ -16,6 +16,8 @@ Flask==2.0.1
 
 mysql-connector-python==8.0.27
 
+Turn on the Xampp server
+
 # : How to Run
 
 Open the terminal in the code editor and run the command
