@@ -15,6 +15,11 @@ User Interface: A simple interface to input rule conditions, test the rule engin
 Flask==2.0.1
 mysql-connector-python==8.0.27
 
+# : How to Run
+
+Open the terminal in the code editor and run the command
+--python app.py
+
 # : Output
 ![Output](1.jpg)
 ![Output](2.jpg)
