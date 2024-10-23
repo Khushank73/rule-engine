@@ -10,6 +10,11 @@ Database Update: After processing the API responses, the results are updated in 
 
 User Interface: A simple interface to input rule conditions, test the rule engine, and visualize the processed data.
 
+# : Requirements
+
+Flask==2.0.1
+mysql-connector-python==8.0.27
+
 # : Output
 ![Output](1.jpg)
 ![Output](2.jpg)
